@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+.calculator{
+    width: 35%;
+    margin: 16px auto;
+    background: #000;
+}
